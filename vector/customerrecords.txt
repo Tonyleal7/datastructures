@@ -1,0 +1,14 @@
+Anthony    Leal     Chickfila    Sharkeez    Northface     Videogames
+Wesley     Friday   Chipotle     Rems        Nike          Movies
+Oliver     Gonzalez Baja         TheBungalow Adidas        Videogames
+Nathan     Mcmurtry Chickfila    Stag        Puma          Bikes
+Junior     Pena     Yardhouse    Sharkeez    Nike          Movies 
+Rafael     Leal     AhiSushi     Under21     Nike          Sports 
+Lee        Doh      Mexicangrill D&B         Supreme       Shop 
+Kyle       Ear      Ramenspot    Matador     Adidas        Videogames 
+Brandon    Lee      KoreanBbq    Prohibition Nike          Bikes
+Sarah      Brown    Baja         Stag        Jordan        Sports
+Jess       Flores   Yardhouse    Ballast     Nike          Baseball 
+Antonio    Brown    Ramenspot    Nobu        Off-white     Football
+Tom        Brady    Mexicangrill Nobu        Under-armor   Bethegoat
+Cristiano  Ronaldo  KoreanBbq    Madridbar   Nike          Besoccergoat
